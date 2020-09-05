@@ -9,8 +9,11 @@ def all_phrases
     puts status
   end
 
-def link
-  old_man = "It's Dangerous To Go Alone! Take This."
-  puts old_man
+  def link
+    old_man = "It's Dangerous To Go Alone! Take This."
+    puts old_man
+  end
+  puts mario
+  puts toadstool
+  puts link
 end
-
